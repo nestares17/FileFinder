@@ -14,3 +14,9 @@ Un buscador de archivos ultra rapido.
 - Verion en Ingles y Español.
 
 
+# Como Installar 
+
+- Dirijase a la carpeta installer.
+- Descargue el archivo "FileFinder-Setup".
+
+
