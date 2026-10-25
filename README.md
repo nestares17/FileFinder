@@ -1,3 +1,7 @@
+   <p align="center">
+     <img src="assets/FileFinder.png" width="150" alt="FileFinder logo">
+   </p>
+
 # FileFinder
 Un buscador de archivos ultra rapido. 
 
