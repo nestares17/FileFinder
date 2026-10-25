@@ -1,5 +1,5 @@
    <p align="center">
-     <img src="FileFinder.png" width="150" alt="FileFinder logo">
+     <img src="FileFinder.png" width="900" alt="FileFinder logo">
    </p>
 
 # FileFinder
