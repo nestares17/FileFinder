@@ -23,4 +23,9 @@ Un buscador de archivos ultra rapido.
 - Dirijase a la carpeta installer.
 - Descargue el archivo "FileFinder-Setup".
 
+# Aviso!
+
+- Durante la instalacion pueden aparecer mensajes de seguridad por el hecho de que no es una aplicacion oficial.
+  El proyecto es open source por lo que no contiene nada maligno.
+
 
